@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "genai-stack",
+			"path": "genai-stack"
+		}
+	],
+	"settings": {},
+	"extensions": {
+		"recommendations": [
+			"eamodio.gitlens",
+			"job.amiga-debug-job"
+		]
+	}
+}
