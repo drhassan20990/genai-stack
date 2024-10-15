@@ -1,0 +1,53 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ]
+        },
+        {
+            "name": "|-------------------------------------------------------------------| | ******                                                            | | ******                                                            | | ******                                                            | | ******                                                            | | ******                                                            | | ****                                                              | | ****                                                              | | ****                                                              | | ****                                                              | | ** }**********                                                     | | ** } // {**********                                                | | **\"gitlens.proxy\": {**                                            | | ** // }**                                                         | | ** //     },**                                                    | | ** //     },**                                                    | | ** //     },**                                                    | | ** //     ]**                                                     | | ** //     ],**                                                    | | ** //     ],**                                                    | | ** //     \"remote.WSL.fileWatcher.polling\": true,**               | | ** //     \"remote.WSL.debug\": true,**                             | | ** //     \"python.experiments.optInto\": [**                       | | ** //     \"python.analysis.disableTaggedHints\": true,**           | | ** //     \"python.analysis.diagnosticSeverityOverrides\": {**      | | ** //     \"python.analysis.completionOverrideExperiment\": true,** | | ** //     \"python.analysis.completeFunctionParens\": true,**       | | ** //     \"python.analysis.cacheLSPData\": true,**                 | | ** //     \"python.analysis.autoImportCompletions\": true,**        | | ** //     \"python.analysis.autoFormatStrings\": true,**            | | ** //     \"launch\": {**                                           | | ** //     \"java.jdt.ls.java.home\": \"\",**                          | | ** //     \"java.debug.settings.stepping.skipClasses\": [**         | | ** //     \"java.debug.settings.showStaticVariables\": true,**      | | ** //     \"java.debug.settings.showQualifiedNames\": true,**       | | ** //     \"java.debug.settings.showHex\": true,**                  | | ** //     \"java.debug.settings.onBuildFailureProceed\": true,**    | | ** //     \"isort.check\": true,**                                  | | ** //     \"githubIssues.ignoreMilestones\": [],**                  | | ** //     \"github.copilot.advanced\": {**                          | | ** //     \"files.autoSave\": \"afterDelay\",**                       | | ** //     \"editor.unicodeHighlight.invisibleCharacters\": false,** | | ** //     \"editor.unicodeHighlight.ambiguousCharacters\": false,** | | ** //     \"editor.largeFileOptimizations\": false,**               | | ** //     \"css.enabledLanguages\": [**                             | | ** //     \"cmake.cacheInit\": null,**                              | | ** //     \"cmake.buildTask\": true,**                              | | ** //     \"cmake.allowUnsupportedPresetsVersions\": true,**        | | ** //     \"cmake.allowCommentsInPresetsFile\": true,**             | | ** //     \"C_Cpp.default.compilerPath\": \"\",**                     | | ** //         analysis**                                          | | ** //         ]**                                                 | | ** //         \"reportAbstractUsage\": \"information\"**              | | ** //         \"pythonDiscoveryUsingWorkers\"**                     | | ** //         \"html\"**                                            | | ** //         \"debug.filterLogCategories\": []**                   | | ** //         \"configurations\": [**                               | | ** //         \"$JDK\"**                                            | | ** //             }**                                             | | ** //             {**                                             | | ** //                 \"type\": \"java\",**                           | | ** //                 \"request\": \"attach\",**                      | | ** //                 \"processId\": \"${command:PickJavaProcess}\"** | | ** //                 \"name\": \"Attach by Process ID\",**           | |                                                             |-------------------------------------------------------------------| | ******                                                            | | ******                                                            | | ******                                                            | | ******                                                            | | ******                                                            | | ****                                                              | | ****                                                              | | ****                                                              | | ****                                                              | | ** }**********                                                     | | ** } // {**********                                                | | **\"gitlens.proxy\": {**                                            | | ** // }**                                                         | | ** //     },**                                                    | | ** //     },**                                                    | | ** //     },**                                                    | | ** //     ]**                                                     | | ** //     ],**                                                    | | ** //     ],**                                                    | | ** //     \"remote.WSL.fileWatcher.polling\": true,**               | | ** //     \"remote.WSL.debug\": true,**                             | | ** //     \"python.experiments.optInto\": [**                       | | ** //     \"python.analysis.disableTaggedHints\": true,**           | | ** //     \"python.analysis.diagnosticSeverityOverrides\": {**      | | ** //     \"python.analysis.completionOverrideExperiment\": true,** | | ** //     \"python.analysis.completeFunctionParens\": true,**       | | ** //     \"python.analysis.cacheLSPData\": true,**                 | | ** //     \"python.analysis.autoImportCompletions\": true,**        | | ** //     \"python.analysis.autoFormatStrings\": true,**            | | ** //     \"launch\": {**                                           | | ** //     \"java.jdt.ls.java.home\": \"\",**                          | | ** //     \"java.debug.settings.stepping.skipClasses\": [**         | | ** //     \"java.debug.settings.showStaticVariables\": true,**      | | ** //     \"java.debug.settings.showQualifiedNames\": true,**       | | ** //     \"java.debug.settings.showHex\": true,**                  | | ** //     \"java.debug.settings.onBuildFailureProceed\": true,**    | | ** //     \"isort.check\": true,**                                  | | ** //     \"githubIssues.ignoreMilestones\": [],**                  | | ** //     \"github.copilot.advanced\": {**                          | | ** //     \"files.autoSave\": \"afterDelay\",**                       | | ** //     \"editor.unicodeHighlight.invisibleCharacters\": false,** | | ** //     \"editor.unicodeHighlight.ambiguousCharacters\": false,** | | ** //     \"editor.largeFileOptimizations\": false,**               | | ** //     \"css.enabledLanguages\": [**                             | | ** //     \"cmake.cacheInit\": null,**                              | | ** //     \"cmake.buildTask\": true,**                              | | ** //     \"cmake.allowUnsupportedPresetsVersions\": true,**        | | ** //     \"cmake.allowCommentsInPresetsFile\": true,**             | | ** //     \"C_Cpp.default.compilerPath\": \"\",**                     | | ** //         analysis**                                          | | ** //         ]**                                                 | | ** //         \"reportAbstractUsage\": \"information\"**              | | ** //         \"pythonDiscoveryUsingWorkers\"**                     | | ** //         \"html\"**                                            | | ** //         \"debug.filterLogCategories\": []**                   | | ** //         \"configurations\": [**                               | | ** //         \"$JDK\"**                                            | | ** //             }**                                             | | ** //             {**                                             | | ** //                 \"type\": \"java\",**                           | | ** //                 \"request\": \"attach\",**                      | | ** //                 \"processId\": \"${command:PickJavaProcess}\"** | | ** //                 \"name\": \"Attach by Process ID\",**           | |                                                                   |      |",
+            "includePath": [
+                "${workspaceFolder}/**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ]
+        },
+        {
+            "name": "Cmaketool",
+            "includePath": [
+                "${workspaceFolder}/**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ]
+        },
+        {
+            "name": "Cmake tool",
+            "includePath": [
+                "${workspaceFolder}/**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "mergeConfigurations": true,
+            "browse": {
+                "limitSymbolsToIncludedHeaders": true
+            }
+        }
+    ],
+    "version": 4
+}
